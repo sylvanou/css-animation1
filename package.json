@@ -1,0 +1,15 @@
+{
+  "name": "css-animation",
+  "version": "1.0.0",
+  "description": "css animation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "reload -b --port 7000"
+  },
+  "author": "Sylvano Umbac",
+  "license": "ISC",
+  "devDependencies": {
+    "reload": "^2.2.2"
+  }
+}
